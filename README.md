@@ -6,4 +6,6 @@
 
 ### Also worked on the Car detection model, using OpenCV, using Haar-cascades, which can be shown as,
 
+![111-min](https://user-images.githubusercontent.com/63406916/88158422-a9a35300-cc29-11ea-899c-ccd8ebdfe141.gif)
+
 
