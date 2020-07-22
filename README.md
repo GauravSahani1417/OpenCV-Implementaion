@@ -4,6 +4,6 @@
 
 ![](output-onlinepngtools.png)
 
-### Also worked on the Car detection model, using OpenCV, using Haar-cascades.
+### Also worked on the Car detection model, using OpenCV, using Haar-cascades, which can be shown as,
 
 
