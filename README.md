@@ -4,8 +4,11 @@
 
 ![](output-onlinepngtools.png)
 
-### Also worked on the Car detection model, using OpenCV, using Haar-cascades, which can be shown as,
+### Worked on the Car detection model, using OpenCV, using Haar-cascades, which can be shown as,
 
 ![111-min](https://user-images.githubusercontent.com/63406916/88158422-a9a35300-cc29-11ea-899c-ccd8ebdfe141.gif)
+
+### Recently, Explored and learned about Background subtraction, using OpenCV, which is a widely used approach for detecting moving objects in videos from static cameras(CCTV). This deals with an approach of detecting the moving objects from the difference between the current frame and a reference frame(Background).
+### Implementation:
 
 
